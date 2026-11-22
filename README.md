@@ -1,8 +1,12 @@
 # Pedro Braga
 
-AI engineer in Brasília. Currently working at a Brazilian Federal Property Registry Office, building
-an agentic + RAG pipeline that compares official property records against federal regulation. Legal
-document classification sits at >94% accuracy and >97% recall on especially sensitive data.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1F3A5F?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-cajaty-barbosa-braga-921102224/)
+[![Email](https://img.shields.io/badge/Email-1F3A5F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrocbbraga@gmail.com)
+
+AI engineer in Brasília. Currently working at a Brazilian federal property registry office,
+building an agentic + RAG pipeline that compares official property records against federal
+regulation. Legal document classification sits at >97% recall on especially sensitive data,
+and >94% accuracy overall.
 
 Finishing an M.S. in Computer Science at Georgia Tech, machine learning track.
 
@@ -20,7 +24,5 @@ Finishing an M.S. in Computer Science at Georgia Tech, machine learning track.
 - **Invest-AI** — PPO agent for continuous portfolio allocation over a custom Gymnasium
   environment.
 
-Python, C++, C. PyMC, PyTorch, FastAPI, Docker, Playwright, JUCE.
-English and Portuguese native, Spanish fluent.
-
-pedrocbbraga@gmail.com · [LinkedIn](https://www.linkedin.com/in/pedro-cajaty-barbosa-braga-921102224/)
+Python, C++, C. Agno, PyMC, PyTorch, FastAPI, Docker, Playwright, JUCE
+English and Portuguese native, Spanish fluent
