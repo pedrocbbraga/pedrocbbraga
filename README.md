@@ -1,7 +1,7 @@
 # Pedro Braga
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1F3A5F?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-cajaty-barbosa-braga-921102224/)
-[![Email](https://img.shields.io/badge/Email-1F3A5F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrocbbraga@gmail.com)
+[![Email](https://img.shields.io/badge/pedrocbbraga@gmail.com-1F3A5F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrocbbraga@gmail.com)
 
 AI engineer in Brasília. Currently working at a Brazilian federal property registry office,
 building an agentic + RAG pipeline that compares official property records against federal
